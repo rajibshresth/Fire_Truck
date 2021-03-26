@@ -5,14 +5,15 @@ The Build
 |Arduino|Flame Sensor|
 |-------|------------|
 |Pin 10	|DO, Right Flame Sensor|
-Pin 9	DO, Left Flame Sensor
-Pin 8	DO, Middle Flame Sensor
-GND	GND, Right, Left and Straight Flame Sensor
-5V	VCC, Right, Left and Straight Flame Sensor
+|Pin 9	|DO, Left Flame Sensor|
+|Pin 8	|DO, Middle Flame Sensor|
+|GND	|GND, Right, Left and Straight Flame Sensor|
+|5V	|VCC, Right, Left and Straight Flame Sensor|
 
-Arduino	Water Pump
-Pin 6	Water Pump
-GND	GND, Right, Left and Straight Flame Sensor
+|Arduino	|Water Pump|
+|-------|------------|
+|Pin 6	|Water Pump|
+|GND	|GND, Right, Left and Straight Flame Sensor|
 
 Arduino	Servo Motor
 Pin 11	Servo Motor
