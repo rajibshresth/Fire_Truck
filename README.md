@@ -1,6 +1,6 @@
 # Fire_Truck
 
-The Build
+###The Build
 
 |Arduino|Flame Sensor|
 |-------|------------|
